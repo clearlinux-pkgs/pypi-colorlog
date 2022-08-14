@@ -4,7 +4,7 @@
 #
 Name     : pypi-colorlog
 Version  : 6.6.0
-Release  : 7
+Release  : 8
 URL      : https://files.pythonhosted.org/packages/8e/8f/1537ebed273d43edd3bb21f1e5861549b7cfcb1d47523d7277cab988cec2/colorlog-6.6.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/8e/8f/1537ebed273d43edd3bb21f1e5861549b7cfcb1d47523d7277cab988cec2/colorlog-6.6.0.tar.gz
 Summary  : Add colours to the output of Python's logging module.
