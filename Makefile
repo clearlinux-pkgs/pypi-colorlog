@@ -1,5 +1,5 @@
 PKG_NAME := pypi-colorlog
-URL = https://files.pythonhosted.org/packages/78/6b/4e5481ddcdb9c255b2715f54c863629f1543e97bc8c309d1c5c131ad14f2/colorlog-6.7.0.tar.gz
+URL = https://files.pythonhosted.org/packages/1f/b0/e4e3850d43f5429f9e53404056d705117fbb8a4d9e755425e762a9f68317/colorlog-6.8.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
